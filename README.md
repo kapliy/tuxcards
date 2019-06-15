@@ -14,9 +14,9 @@ Tested on Mac OS X Mojave (10.14).
   which conda
   conda install qt
   ```
-- Compile tuxcards via the following script.
+- Compile tuxcards.
 ```
-https://github.com/kapliy/tuxcards/blob/master/build_mac.sh
+bash build_mac.sh
 ```
 - If everything succeeds, the script prints a command to start up the tuxcards GUI at the end.
 ```
